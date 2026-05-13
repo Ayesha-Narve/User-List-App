@@ -44,7 +44,7 @@ This project demonstrates API integration, async handling, FlatList usage, reusa
 
 ![pull to refresh](./screenshots/refresh.png)
 
-![user listing]
+
 # API Used
 
 ```plaintext
